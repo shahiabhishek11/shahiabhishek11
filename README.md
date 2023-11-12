@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhishek Shahi</h1>
 <h3 align="center">Passionate Developer</h3>
 
-<img align="right alt="Coding" width="400" src"https://www.google.com/search?q=animated+coder+gif&sca_esv=581653496&rlz=1C1JJTC_enIN995IN995&tbm=isch&sxsrf=AM9HkKkKfGgxKMHAsJzlgwm7vXu89smV1Q:1699774333836&source=lnms&sa=X&sqi=2&ved=2ahUKEwjK9_bq-L2CAxVxcWwGHR9WA14Q_AUoAXoECAEQAw&biw=1536&bih=739&dpr=1.25#imgrc=urce2NUsuMvIiM">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
